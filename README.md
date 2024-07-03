@@ -7,3 +7,4 @@ A universal asynchronous receiver-transmitter ( UART ) is a peripheral device fo
 The advantage is that the line is simple, with only two lines, but the disadvantage is that it can only be connected one to one, and the speed is not very fast.
 
 ### UART Configuration
+
